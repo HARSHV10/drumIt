@@ -96,3 +96,7 @@ h1 {
   /* margin: 4rem; */
   /* background-color: white; */
 }
+
+.drum:focus{
+  border: #DBEDF3;
+}
